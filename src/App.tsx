@@ -1,10 +1,21 @@
-import { Icon4K } from "justd-icons";
+import Navbar from "./components/navbar";
+import HeaderHomeSection from "./sections/Home";
 
 export default function App() {
   return (
-    <div>
-      <Icon4K />
-      <h1>Hello World</h1>
-    </div>
+    <>
+      <Navbar />
+      <HeaderHomeSection />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+    </>
   );
 }
