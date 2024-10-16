@@ -71,7 +71,7 @@ export default function HeaderHomeSection() {
         </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <i className="fa-solid fa-palette text-3xl"></i>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Seni Pertunjuka</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
         </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
