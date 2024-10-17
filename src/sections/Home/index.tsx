@@ -12,7 +12,7 @@ export default function HeaderHomeSection() {
       </div>
 
       <div className="subsector pt-20">
-        <h1 className="text-center lg:text-5xl text-3xl font-medium font-bold mb-2">
+        <h1 className="text-center lg:text-5xl text-3xl font-bold mb-2">
           <span className="text-green-800">17</span> SUB SEKTOR
         </h1>
         <p className="text-center font-medium mb-10">Di Kabupaten Kuningan</p>
@@ -30,112 +30,112 @@ export default function HeaderHomeSection() {
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
             <i className="fa-solid fa-icons text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Musik</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
         </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-brush text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Seni Rupa</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
         </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-shirt text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Fashion</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
         </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-camera text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Fotografi</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
         </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-tv text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Televisi Dan Radio</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
         </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-bullhorn text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Periklanan</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-utensils text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Kuliner</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-gamepad text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Pengembangan Permainan</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-hands text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Kriya</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-house-laptop text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Desain Interior</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-pen-ruler text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Desain Produk</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-clapperboard text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Film, Animasi, Dan Video</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-draw-polygon text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Desain Komunikasi Visual</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-city text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Arsitektur</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-feather-pointed text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Penerbitan</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
-        </div>{" "}
+        </div>
         <div className="p-5 shadow-lg w-full bg-slate-50 rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl hover:bg-slate-300 text-center">
           <div className="icon-container bg-white h-16 w-16 flex items-center justify-center rounded-full mx-auto">
-            <i className="fa-solid fa-masks-theater text-4xl"></i>
+            <i className="fa-solid fa-mobile-screen-button text-4xl"></i>
           </div>
-          <p className="card-text">Seni Pertunjukan</p>
+          <p className="card-text">Aplikasi</p>
           <p className="text-gray-500">Sudah Ada - Sektor</p>
         </div>
       </div>

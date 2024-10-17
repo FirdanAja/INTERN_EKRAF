@@ -14,12 +14,12 @@ export default function Navbar() {
           </li>
           <li>
             <a href="#" className="text-sm">
-              Agenda
+              UMKM
             </a>
           </li>
           <li>
             <a href="#" className="text-sm">
-              Umkm
+              Agenda
             </a>
           </li>
           <li>
