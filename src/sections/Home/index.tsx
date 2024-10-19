@@ -168,13 +168,13 @@ export default function HeaderHomeSection() {
           "https://images.unsplash.com/photo-1567366865909-4841d122b8ba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ]}
         logoUrl="https://kuninganbeu.kuningankab.go.id/images/logo/KuninganBeu_Putih.png"
-        title="ALOPE UI is The Best "
-        description="ALOPE UI is a simple and flexible component library for your React project. It is built with Vite, ESLint, Tailwind CSS, and uses Heroicons for icons, enabling fast development and clean code."
+        title="EKONOMI KREATIF KUNINGAN "
+        description="EKRAF is a simple and flexible component library for your React project. It is built with Vite, ESLint, Tailwind CSS, and uses Heroicons for icons, enabling fast development and clean code."
       />
 
       <div className="subsector pt-20">
         <h1 className="text-center lg:text-5xl text-3xl font-bold mb-2">
-          <span className="text-green-800">17</span> SUB SEKTOR
+          <span className="text-blue-400">17</span> SUB SEKTOR
         </h1>
         <p className="text-center font-medium mb-10">Di Kabupaten Kuningan</p>
       </div>

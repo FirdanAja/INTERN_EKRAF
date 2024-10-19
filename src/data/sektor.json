@@ -1,82 +1,87 @@
 [
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Seni Pertunjukan",
+    "icon": "fa-solid fa-masks-theater ",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Musik",
+    "icon": "fa-solid fa-icons",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Seni Rupa",
+    "icon": "fa-solid fa-brush",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Fesyen",
+    "icon": "fa-solid fa-shirt",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Fotografi",
+    "icon": "fa-solid fa-camera",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Televisi Dan Radio",
+    "icon": "fa-solid fa-tv",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Periklanan",
+    "icon": "fa-solid fa-bullhorn",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Kuliner",
+    "icon": "fa-solid fa-utensils",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Pengembang Permainan",
+    "icon": "fa-solid fa-gamepad",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Kriya",
+    "icon": "fa-solid fa-hands",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Desain Interior",
+    "icon": "fa-solid fa-house-laptop",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Desain Produk",
+    "icon": "fa-solid fa-pen-ruler",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Film, Animasi, Dan Video",
+    "icon": "fa-solid fa-clapperboard",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Desain Komunikasi Visual",
+    "icon": "fa-solid fa-draw-polygon",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Arsitektur",
+    "icon": "fa-solid fa-city",
     "subtitle": "2"
   },
   {
-    "title": "Fashion",
-    "icon": "fa-icons",
+    "title": "Penerbitan",
+    "icon": "fa-solid fa-feather-pointed",
+    "subtitle": "2"
+  },
+  {
+    "title": "Aplikasi",
+    "icon": "fa-solid fa-mobile-screen",
     "subtitle": "2"
   }
 ]

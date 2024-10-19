@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "alope-ui": "^1.4.2",
+    "alope-ui": "^1.5.1",
     "install": "^0.13.0",
     "justd-icons": "^1.4.45",
     "npm": "^10.9.0",

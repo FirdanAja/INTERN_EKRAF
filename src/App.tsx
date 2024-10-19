@@ -15,16 +15,20 @@ export default function App() {
         title={"EKRAF KUNINGAN"}
         links={[
           {
-            placeholder: "Home",
+            placeholder: "Beranda",
             to: "/",
           },
           {
-            placeholder: "About",
-            to: "/about",
+            placeholder: "Sektor",
+            to: "/Sektor",
           },
           {
-            placeholder: "Product",
-            to: "/product",
+            placeholder: "Agenda",
+            to: "/Agenda",
+          },
+          {
+            placeholder: "Tentang",
+            to: "/Tentang",
           },
         ]}
         stickyTop={true}
